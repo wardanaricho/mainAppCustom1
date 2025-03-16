@@ -1,0 +1,3 @@
+[submodule "mainApp"]
+	path = mainApp
+	url = git@github.com:wardanaricho/mainApp.git
